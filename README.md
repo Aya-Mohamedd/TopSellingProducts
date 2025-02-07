@@ -3,11 +3,6 @@
 ## 🚀 Overview  
 This project presents an interactive **Power BI Dashboard** for analyzing top-selling products across different categories. The dashboard provides insights into revenue, units sold, and product performance trends.
 
-## 📌 Key Dashboards
-1. **Sales Overview** – Displays total revenue, average price, and total units sold.
-2. **Salesperson Performance** – Evaluates individual sales performance and achievements.
-3. **Product Performance** – Highlights best-selling products, category revenue distribution, and top-rated items.
-
 ## 🔍 Features
 - ✅ **Product Performance Analysis** – Track top-selling products and units sold.
 - ✅ **Category Breakdown** – Understand the sales contribution of different product categories.
