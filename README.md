@@ -30,17 +30,6 @@ The dataset consists of:
 
 ## 🛠️ Technologies Used
 - **Power BI** – Interactive dashboard and data visualization.
-- **Excel / SQL** – Data processing and storage.
-- **DAX & Power Query** – Data calculations and transformations.
-
-## 📝 Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Sales-Dashboard-Project.git
-   ```
-2. Open **Power BI** and load the `.pbix` file.
-3. Connect to the provided dataset or your own data source.
-4. Interact with filters and visuals to explore insights.
 
 ## 🖼️ Dashboard Screenshot
 ![Top Selling Products Dashboard](Images/TopSellingProducts.jpg)
